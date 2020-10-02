@@ -1,1 +1,1 @@
-# path-texture-classification-for-visually-impared
+# path-texture-classification-for-visually-impaired
